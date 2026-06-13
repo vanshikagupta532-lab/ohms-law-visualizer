@@ -37,7 +37,8 @@ This project is built for learning and understanding:
 ---
 
 ## 📷 Output Screenshot
-
+- when voltage is(V): 10
+- resistance (R): 5
 ![Ohm's Law Graph](screenshot.png)
 
 ---
